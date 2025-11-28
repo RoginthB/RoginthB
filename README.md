@@ -1,34 +1,99 @@
 ---
- 
-# Hello, I'm Roginth! 👋
- 
-## About Me
-I'm a passionate software engineer with expertise in MERN full-stack development, React Native application development, NXopen API, AutoCAD API, C#, Python, and front-end web development. I love exploring new technologies and am always eager to learn and grow in my field.
- 
-## Skills
-- **Programming Languages:** MERN fullstack, React Native, NXopen API, AutoCAD API, C#, Python, JavaScript
-- **Frontend:** HTML, CSS, React, React Native
-- **Backend:** Node.js, Express.js, MongoDB, Python
-- **Cloud:** Google Cloud Platform (GCP)
-- **CAD Software:** NX CAD, AutoCAD, Creo, Solidworks
-- **Other:** Geometric Dimensioning and Tolerancing (GD&T), Generative AI, Graphic Design, UI Design
- 
-## Projects
-Here are some of the projects I've worked on:
-- [Kauvery SOS App for Android](https://kauvery.netlify.app/): Developed a mobile app for accessing emergency services swiftly.
-- [Image Rating Web App](https://favor-app.netlify.app/): Built a web application for rating images, enhancing user engagement and satisfaction.
-- [College Website Problem Solving](Link): Successfully resolved challenges in the college website, demonstrating proactive problem-solving abilities.
- 
-## Get in Touch
-- LinkedIn: [RoginthB](https://twitter.com/Rohinth10014070)
-- Email: roginthb@gmail.com(mailto:roginthb@gmail.com)
-- Website/Blog: [designer-roginth.netlify.app](https://designer-roginth.netlify.app)
- 
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoginthB&show_icons=true&theme=radical)
- 
-## Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoginthB&layout=compact)
- 
-## Contributions
-Feel free to check out my contributions and repositories!
+
+# 👋 Hello, I'm **Roginth**
+
+## 💡 About Me
+
+I’m a passionate **Full-Stack & GenAI Developer** with strong expertise in MERN stack, React Native, CAD automation using NX Open API, and modern AI systems.
+I love building intelligent, scalable, and user-centric applications — from mobile apps to AI-powered platforms and engineering automation tools.
+Always learning. Always building. Always improving.
+
+---
+
+## 🛠️ Skills
+
+### **Programming & Frameworks**
+
+* MERN Full-Stack | React Native | Next.js
+* C#, Python, JavaScript, Node.js
+* NX Open API | AutoCAD API
+* Streamlit | LangChain | Generative AI
+
+### **Frontend**
+
+* HTML | CSS | Tailwind CSS
+* React.js | React Native
+
+### **Backend**
+
+* Node.js | Express.js
+* MongoDB | Qdrant Vector DB
+* REST APIs | Authentication
+
+### **Cloud**
+
+* Google Cloud Platform (GCP)
+
+### **CAD & Engineering Tools**
+
+* NX CAD | AutoCAD | Creo | Solidworks
+* Geometric Dimensioning & Tolerancing (GD&T)
+
+### **Other Skills**
+
+* Generative AI
+* System Design
+* UI/UX, Graphic Design
+* Problem Solving & Debugging
+
+---
+
+## 🚀 Projects
+
+### 🆕 **CricketWithAI – GenAI Cricket Insights Platform**
+
+A MERN + GenAI powered web app for score tracking, AI-driven predictions, analytics, and user interaction.
+🔗 *[https://cricketwithai.netlify.app](https://cricketwithai.netlify.app)*
+
+### 🆕 **AskQ AI – Intelligent Q&A Chatbot**
+
+A Streamlit-based AI chatbot that provides context-aware and accurate responses to user queries.
+Includes loading spinners, conversation UI, and OpenAI integration.
+
+### 🆕 **PDF-RAG App**
+
+A Retrieval-Augmented Generation app built with Streamlit to interact with PDF documents using embeddings and vector search.
+
+### 📱 **Kauvery SOS App (Android)**
+
+A React Native emergency-response app enabling users to access SOS services instantly.
+🔗 [https://kauvery.netlify.app/](https://kauvery.netlify.app/)
+
+### 🖼️ **Favor – Image Rating Web App**
+
+A MERN-based image rating platform improving engagement through a clean UI and smooth user experience.
+🔗 [https://favor-app.netlify.app/](https://favor-app.netlify.app/)
+
+### 🛠 **College Website Problem Solving**
+
+Identified and resolved key issues in a college website, improving functionality and usability.
+
+---
+
+## 📬 Get in Touch
+
+* **LinkedIn:** RoginthB
+* **Email:** [roginthb@gmail.com](mailto:roginthb@gmail.com)
+* **Portfolio:** [https://designer-roginth.netlify.app](https://designer-roginth.netlify.app)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoginthB\&show_icons=true\&theme=radical)
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoginthB\&layout=compact)
+
+---
