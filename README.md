@@ -1,99 +1,164 @@
----
-
-# 👋 Hello, I'm **Roginth**
-
-## 💡 About Me
-
-I’m a passionate **Full-Stack & GenAI Developer** with strong expertise in MERN stack, React Native, CAD automation using NX Open API, and modern AI systems.
-I love building intelligent, scalable, and user-centric applications — from mobile apps to AI-powered platforms and engineering automation tools.
-Always learning. Always building. Always improving.
+<h1 align="center">Hi 👋, I'm Roginth</h1>
+<h3 align="center">🚀 Generative AI Engineer | Full-Stack AI Developer | CAD Automation Specialist</h3>
 
 ---
 
-## 🛠️ Skills
+## 🧠 About Me
 
-### **Programming & Frameworks**
+I’m a **Generative AI Engineer & Full-Stack Developer** focused on building intelligent, scalable, and production-ready AI systems.
 
-* MERN Full-Stack | React Native | Next.js
-* C#, Python, JavaScript, Node.js
-* NX Open API | AutoCAD API
-* Streamlit | LangChain | Generative AI
+🔹 I design **LLM-powered applications**  
+🔹 I build **Retrieval-Augmented Generation (RAG) systems**  
+🔹 I develop **AI agents & workflow automation tools**  
+🔹 I integrate AI into full-stack MERN applications  
+🔹 I optimize engineering workflows using automation  
 
-### **Frontend**
-
-* HTML | CSS | Tailwind CSS
-* React.js | React Native
-
-### **Backend**
-
-* Node.js | Express.js
-* MongoDB | Qdrant Vector DB
-* REST APIs | Authentication
-
-### **Cloud**
-
-* Google Cloud Platform (GCP)
-
-### **CAD & Engineering Tools**
-
-* NX CAD | AutoCAD | Creo | Solidworks
-* Geometric Dimensioning & Tolerancing (GD&T)
-
-### **Other Skills**
-
-* Generative AI
-* System Design
-* UI/UX, Graphic Design
-* Problem Solving & Debugging
+I don’t just build applications —  
+I build **AI systems that retrieve, reason, and respond.**
 
 ---
 
-## 🚀 Projects
+# 🤖 Core Expertise (GenAI Focused)
 
-### 🆕 **CricketWithAI – GenAI Cricket Insights Platform**
+## 🧠 Generative AI & LLM Engineering
 
-A MERN + GenAI powered web app for score tracking, AI-driven predictions, analytics, and user interaction.
-🔗 *[https://cricketwithai.netlify.app](https://cricketwithai.netlify.app)*
-
-### 🆕 **AskQ AI – Intelligent Q&A Chatbot**
-
-A Streamlit-based AI chatbot that provides context-aware and accurate responses to user queries.
-Includes loading spinners, conversation UI, and OpenAI integration.
-
-### 🆕 **PDF-RAG App**
-
-A Retrieval-Augmented Generation app built with Streamlit to interact with PDF documents using embeddings and vector search.
-
-### 📱 **Kauvery SOS App (Android)**
-
-A React Native emergency-response app enabling users to access SOS services instantly.
-🔗 [https://kauvery.netlify.app/](https://kauvery.netlify.app/)
-
-### 🖼️ **Favor – Image Rating Web App**
-
-A MERN-based image rating platform improving engagement through a clean UI and smooth user experience.
-🔗 [https://favor-app.netlify.app/](https://favor-app.netlify.app/)
-
-### 🛠 **College Website Problem Solving**
-
-Identified and resolved key issues in a college website, improving functionality and usability.
+- Large Language Models (LLMs)
+- Prompt Engineering & Optimization
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Semantic Search
+- Vector Databases (Qdrant)
+- AI Agents & Tool Calling
+- Context & Memory Systems
+- OpenAI API Integration
+- LangChain Framework
+- Document Intelligence Systems
 
 ---
 
-## 📬 Get in Touch
+# 🛠️ Full-Stack AI Development
 
-* **LinkedIn:** RoginthB
-* **Email:** [roginthb@gmail.com](mailto:roginthb@gmail.com)
-* **Portfolio:** [https://designer-roginth.netlify.app](https://designer-roginth.netlify.app)
+## 🌐 Frontend (AI-Integrated UI)
+
+- React.js
+- Next.js
+- React Native
+- Tailwind CSS
+- Conversational UI
+- Real-time AI Streaming Responses
+
+## ⚙️ Backend & AI APIs
+
+- Node.js
+- Express.js
+- Python (AI Pipelines)
+- REST APIs
+- Authentication & Authorization
+- AI Microservices Architecture
+
+## 🗄️ Databases
+
+- MongoDB
+- Qdrant (Vector DB)
+- Hybrid Search (Keyword + Vector)
 
 ---
 
-## 📊 GitHub Stats
+# ☁️ Cloud & Deployment
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoginthB\&show_icons=true\&theme=radical)
-
-## 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoginthB\&layout=compact)
+- Google Cloud Platform (GCP)
+- Netlify Deployment
+- Environment & Secrets Management
+- Production-Ready AI Deployments
 
 ---
+
+# 🏗️ Engineering & Automation
+
+- NX Open API (C#)
+- CAD Automation Tools
+- BOM Automation
+- Workflow Automation
+- GD&T
+- Engineering System Optimization
+
+---
+
+# 🚀 Featured AI Projects
+
+## 🧠 CricketWithAI – GenAI Cricket Intelligence Platform
+
+A MERN + LLM-powered cricket analytics platform featuring:
+
+- AI-based match predictions  
+- Conversational cricket assistant  
+- Performance analytics  
+- Scalable AI architecture  
+
+🔗 https://cricketwithai.netlify.app  
+
+---
+
+## 📄 PDF-RAG System – Intelligent Document Assistant
+
+A full Retrieval-Augmented Generation system:
+
+- PDF ingestion pipeline  
+- Text chunking & embeddings  
+- Vector search with Qdrant  
+- Context-aware AI responses  
+- Streamlit conversational interface  
+
+---
+
+## 💬 AskQ AI – Context-Aware Chatbot
+
+An LLM-powered Q&A assistant built with:
+
+- LangChain orchestration  
+- Memory management  
+- Real-time streaming responses  
+- Structured conversational UI  
+
+---
+
+## 📱 Kauvery SOS – Smart Emergency App
+
+React Native-based emergency response application with optimized UX and instant accessibility.
+
+🔗 https://kauvery.netlify.app/  
+
+---
+
+## 🖼️ Favor – Engagement-Focused MERN App
+
+A full-stack image rating system emphasizing clean UI, authentication, and performance optimization.
+
+🔗 https://favor-app.netlify.app/  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoginthB&show_icons=true&theme=radical" />
+</p>
+
+---
+
+# 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoginthB&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 📬 Connect With Me
+
+- 💼 LinkedIn: RoginthB
+- 📧 Email: roginthb@gmail.com
+- 🌐 Portfolio: https://designer-roginth.netlify.app
+
+---
+
+⭐ *Building AI Systems that Think, Retrieve, and Scale.*
