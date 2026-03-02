@@ -30,7 +30,7 @@ I build **AI systems that retrieve, reason, and respond.**
 - AI Agents & Tool Calling
 - Context & Memory Systems
 - OpenAI API Integration
-- LangChain Framework
+- LangChain & LangGraph Framework
 - Document Intelligence Systems
 
 ---
@@ -43,7 +43,6 @@ I build **AI systems that retrieve, reason, and respond.**
 - Next.js
 - React Native
 - Tailwind CSS
-- Conversational UI
 - Real-time AI Streaming Responses
 
 ## ⚙️ Backend & AI APIs
@@ -53,7 +52,6 @@ I build **AI systems that retrieve, reason, and respond.**
 - Python (AI Pipelines)
 - REST APIs
 - Authentication & Authorization
-- AI Microservices Architecture
 
 ## 🗄️ Databases
 
